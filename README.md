@@ -1,5 +1,7 @@
 # AzurePublicIPAddressRanges
 
+[![Update ServiceTags_Public.json](https://github.com/wagov/AzurePublicIPAddressRanges/actions/workflows/main.yml/badge.svg)](https://github.com/wagov/AzurePublicIPAddressRanges/actions/workflows/main.yml)
+
 ## Introduction
 
 This repo tracks the changes made to the official Azure IP Address Range list available on [https://www.microsoft.com](https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519). This list is published by Microsoft once a week and includes Compute, SQL and Storage ranges used in the Microsoft Azure Datacenters.
