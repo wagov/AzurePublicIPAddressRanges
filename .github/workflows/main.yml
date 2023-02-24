@@ -34,6 +34,6 @@ jobs:
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_user_name: jensihnow
-        commit_user_email: jens@ihnow.de
+        commit_user_name: WA SOC
+        commit_user_email: cybersecurity@dpc.wa.gov.au
         commit_message: ${{ env.COMMIT_MESSAGE }}
